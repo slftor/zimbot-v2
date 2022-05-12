@@ -2966,7 +2966,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
  🏮 *UPTIME:* ${runtime(process.uptime())}
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
- + 2 7 6  3  4  0  9  0 2  0  3
+ +91  8 1 8 8 0  1 9 6 7 6
  `,
                     buttonText: "MENU🌟",
                     footerText: "ZIM BOT INC 2022",
@@ -3087,7 +3087,7 @@ case 'grupmenu': {
    
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
- + 2 7 6 3 4 0 9 0 2 0 3
+ +91  8 1 8 8 0  1 9 6 7 6
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3136,7 +3136,7 @@ case 'downloadmenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-     + 2 7 6 3 4 0 9 0 2 0 3
+     +91  8 1 8 8 0  1 9 6 7 6
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3181,7 +3181,7 @@ case 'downloadmenu': {
    
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
- + 2 7 6 3 4 0 9 0 2 0 3
+ +91  8 1 8 8 0  1 9 6 7 6
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3216,7 +3216,7 @@ case 'randommenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6 3 4 0 9 0 2 0 3
+   +91  8 1 8 8 0  1 9 6 7 6
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3248,11 +3248,13 @@ case 'funmenu': {
     ▍🪟 ${prefix}couple
     ▍🪟 ${prefix}mysoulmate
     ▍🪟 ${prefix}math
+    ▍🪟 ${prefix}ttt
+    ▍🪟 ${prefix}suit @
     ▙▰▰▰▰▰▰▰▰▰▰▰⧁
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6 3 4 0 9 0 2 0 3
+   +91  8 1 8 8 0  1 9 6 7 6
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3296,7 +3298,7 @@ case 'voicemenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6 3 4 0 9 0 2 0 3
+   +91  8 1 8 8 0  1 9 6 7 6
 `
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3336,7 +3338,7 @@ case 'religionmenukdksoejdjj': {
   
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-+ 2 7 6 3 4 0 9 0 2 0 3
++91  8 1 8 8 0  1 9 6 7 6
 `
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3436,7 +3438,7 @@ case 'convertmenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6 3 4 0 9 0 2 0 3
+   +91  8 1 8 8 0  1 9 6 7 6
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3481,7 +3483,7 @@ case 'nocategorymenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6 3 4 0 9 0 2 0 3
+   +91  8 1 8 8 0  1 9 6 7 6
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3522,7 +3524,7 @@ case 'databasemenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6 3 4 0 9 0 2 0 3 
+   +91  8 1 8 8 0  1 9 6 7 6
      `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3558,7 +3560,7 @@ case 'anonymouschatmenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6 3 4 0 9 0 2 0 3
+   +91  8 1 8 8 0  1 9 6 7 6
 	`
 	  const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3594,7 +3596,7 @@ case 'sistemmenu': {
      
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6 3 4 0 9 0 2 0 3
+   +91  8 1 8 8 0  1 9 6 7 6
 `
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3636,7 +3638,7 @@ break
       
       ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
       ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-      + 2 7 6 3 4 0 9 0 2 0 3
+      +91  8 1 8 8 0  1 9 6 7 6
   `
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3690,7 +3692,7 @@ case 'nsfwmenu': {
   
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6 3 4 0 9 0 2 0 3
+   +91  8 1 8 8 0  1 9 6 7 6
    
   `
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -3824,6 +3826,8 @@ const devsound = fs.readFileSync('./Zimbot/menu.mp3')
   ▍🪟 ${prefix}couple
   ▍🪟 ${prefix}mysoulmate
   ▍🪟 ${prefix}math
+  ▍🪟 ${prefix}ttt
+  ▍🪟 ${prefix}suit @
   ▙▰▰▰▰▰▰▰▰▰▰▰⧁
   
 
@@ -4012,7 +4016,7 @@ const devsound = fs.readFileSync('./Zimbot/menu.mp3')
    
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   + 2 7 6  3  4  0  9  0  2  0  3
+   +91  8 1 8 8 0  1 9 6 7 6
    `
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -4047,7 +4051,7 @@ SUBSCRIBE🌟* https://youtube.com/c/DRIPSOFC *DRIPS OFC*
 
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
- + 2 7 6 3  4  0  9  0  2  0  3
+ +91  8 1 8 8 0  1 9 6 7 6
 `)
 break
             default:
