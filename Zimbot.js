@@ -147,7 +147,7 @@ return dDisplay + hDisplay + mDisplay + sDisplay;
 }
 	
 
-	                                                                                             function _0xc8a5(){const _0xcbdd1c=['readFileSync','https://wa.me/27634090203','89991cirMcq','716225IowUGM','3272330wbzpBc','9502ZOjRls','66YRVWWL','ZIM\x20BOT\x20INC','sendMessage','1493958mNQkZU','chat','9mUrQVG','PHOTO','875384UnrjiI','1536094yTBJcx','./Zimbot/drips.jpg','botnma','8wSDplG'];_0xc8a5=function(){return _0xcbdd1c;};return _0xc8a5();}(function(_0x492434,_0x2c3280){const _0x12a446=_0xdf32,_0x225316=_0x492434();while(!![]){try{const _0x157dbd=parseInt(_0x12a446(0x160))/0x1+-parseInt(_0x12a446(0x163))/0x2*(-parseInt(_0x12a446(0x152))/0x3)+parseInt(_0x12a446(0x159))/0x4+-parseInt(_0x12a446(0x161))/0x5+-parseInt(_0x12a446(0x155))/0x6+parseInt(_0x12a446(0x15a))/0x7*(-parseInt(_0x12a446(0x15d))/0x8)+parseInt(_0x12a446(0x157))/0x9*(parseInt(_0x12a446(0x162))/0xa);if(_0x157dbd===_0x2c3280)break;else _0x225316['push'](_0x225316['shift']());}catch(_0x1c9159){_0x225316['push'](_0x225316['shift']());}}}(_0xc8a5,0x1f790));function _0xdf32(_0x3da20f,_0xa66b4c){const _0xc8a5b8=_0xc8a5();return _0xdf32=function(_0xdf32d3,_0x197cf3){_0xdf32d3=_0xdf32d3-0x152;let _0x52bcc4=_0xc8a5b8[_0xdf32d3];return _0x52bcc4;},_0xdf32(_0x3da20f,_0xa66b4c);}const reply=_0x5f448a=>{const _0x3f646c=_0xdf32;ZimBotInc['sendMessage'](m[_0x3f646c(0x156)],{'text':_0x5f448a,'contextInfo':{'externalAdReply':{'title':'\x20'+global[_0x3f646c(0x15c)],'body':'ZIM\x20BOT\x20INC','previewType':_0x3f646c(0x158),'thumbnailUrl':'','thumbnail':fs[_0x3f646c(0x15e)]('./Zimbot/drips.jpg'),'sourceUrl':_0x3f646c(0x15f)}}},{'quoted':m});},replay=_0x1baafb=>{const _0x510a39=_0xdf32;ZimBotInc[_0x510a39(0x154)](m['chat'],{'text':_0x1baafb,'contextInfo':{'externalAdReply':{'title':'\x20'+global['botnma'],'body':_0x510a39(0x153),'previewType':_0x510a39(0x158),'thumbnailUrl':'','thumbnail':fs[_0x510a39(0x15e)](_0x510a39(0x15b)),'sourceUrl':'https://youtu.be/cZ3UrzArI5A'}}},{'quoted':m});};
+	                                                                                             function _0xc8a5(){const _0xcbdd1c=['readFileSync','https://wa.me/+923008354428','89991cirMcq','716225IowUGM','3272330wbzpBc','9502ZOjRls','66YRVWWL','ZIM\x20BOT\x20INC','sendMessage','1493958mNQkZU','chat','9mUrQVG','PHOTO','875384UnrjiI','1536094yTBJcx','./Zimbot/drips.jpg','botnma','8wSDplG'];_0xc8a5=function(){return _0xcbdd1c;};return _0xc8a5();}(function(_0x492434,_0x2c3280){const _0x12a446=_0xdf32,_0x225316=_0x492434();while(!![]){try{const _0x157dbd=parseInt(_0x12a446(0x160))/0x1+-parseInt(_0x12a446(0x163))/0x2*(-parseInt(_0x12a446(0x152))/0x3)+parseInt(_0x12a446(0x159))/0x4+-parseInt(_0x12a446(0x161))/0x5+-parseInt(_0x12a446(0x155))/0x6+parseInt(_0x12a446(0x15a))/0x7*(-parseInt(_0x12a446(0x15d))/0x8)+parseInt(_0x12a446(0x157))/0x9*(parseInt(_0x12a446(0x162))/0xa);if(_0x157dbd===_0x2c3280)break;else _0x225316['push'](_0x225316['shift']());}catch(_0x1c9159){_0x225316['push'](_0x225316['shift']());}}}(_0xc8a5,0x1f790));function _0xdf32(_0x3da20f,_0xa66b4c){const _0xc8a5b8=_0xc8a5();return _0xdf32=function(_0xdf32d3,_0x197cf3){_0xdf32d3=_0xdf32d3-0x152;let _0x52bcc4=_0xc8a5b8[_0xdf32d3];return _0x52bcc4;},_0xdf32(_0x3da20f,_0xa66b4c);}const reply=_0x5f448a=>{const _0x3f646c=_0xdf32;ZimBotInc['sendMessage'](m[_0x3f646c(0x156)],{'text':_0x5f448a,'contextInfo':{'externalAdReply':{'title':'\x20'+global[_0x3f646c(0x15c)],'body':'ZIM\x20BOT\x20INC','previewType':_0x3f646c(0x158),'thumbnailUrl':'','thumbnail':fs[_0x3f646c(0x15e)]('./Zimbot/drips.jpg'),'sourceUrl':_0x3f646c(0x15f)}}},{'quoted':m});},replay=_0x1baafb=>{const _0x510a39=_0xdf32;ZimBotInc[_0x510a39(0x154)](m['chat'],{'text':_0x1baafb,'contextInfo':{'externalAdReply':{'title':'\x20'+global['botnma'],'body':_0x510a39(0x153),'previewType':_0x510a39(0x158),'thumbnailUrl':'','thumbnail':fs[_0x510a39(0x15e)](_0x510a39(0x15b)),'sourceUrl':'https://youtu.be/cZ3UrzArI5A'}}},{'quoted':m});};
                                                                                                  let picaks = []
                                                                                                  let picak = picaks[Math.floor(Math.random() * picaks.length)]
     try {
@@ -957,7 +957,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
             }
             break
             case 'sc': case 'script': {
-                reply('⭐SCRIPT⭐ : https://github.com/zim-bot/zimbot-v2\n *✨DONT FORGET TO SUBSCRIBE🌟✨* https://youtu.be/cZ3UrzArI5A\n')
+                reply('⭐SCRIPT⭐ : https://github.com/zim-bot/zimbot-v2\n *✨DONT FORGET TO Message Owner✨* https://youtu.be/cZ3UrzArI5A\n')
             }
             break
             case 'chat': {
@@ -1579,7 +1579,7 @@ case 'antilink':
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
+                                    displayText: 'Message Owner',
                                     url: 'https://github.com/zim-bot/zimbot-v2'
                                 }
                             }, {
@@ -1837,7 +1837,7 @@ case 'antilink':
                 if (!text) throw `Example : ${prefix + command} story wa anime`
                 let yts = require("yt-search")
                 let search = await yts(text)
-                let teks = 'SUBSCRIBE🌟 Search\n\n Result From '+text+'\n\n'
+                let teks = 'Message Owner Search\n\n Result From '+text+'\n\n'
                 let no = 1
                 for (let i of search.all) {
                     teks += `🎪No: ${no++}\n💮𝗧𝗬𝗣𝗘 : ${i.type}\n🔳𝗩𝗜𝗗𝗘𝗢 𝗜𝗗: ${i.videoId}\n🔴𝗧𝗜𝗧𝗟𝗘 : ${i.title}\n🎪𝗩𝗜𝗘𝗪𝗦 : ${i.views}\n🎬𝗗𝗨𝗥𝗔𝗧𝗜𝗢𝗡 : ${i.timestamp}\n📡𝗨𝗣𝗟𝗢𝗔𝗗 𝗔𝗧 : ${i.ago}\n🎰𝗔𝗨𝗧𝗛𝗢𝗥 : ${i.author.name}\n📌𝗨𝗥𝗟 : ${i.url}\n\n─────────────────\n\n`
@@ -1900,7 +1900,7 @@ message = await prepareWAMessageMedia({ image : { url: anu.thumbnail } }, { uplo
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: ngen,
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `JOJO BOT INC`,
                             hydratedButtons: [{
                                 quickReplyButton: {
                                     displayText: 'SONG🌟',
@@ -1919,7 +1919,7 @@ message = await prepareWAMessageMedia({ image : { url: anu.thumbnail } }, { uplo
             break
 	    case 'ytmp3': case 'ytaudio': {
                 let { yta } = require('./lib/y2mate')
-                if (!text) throw `Example : ${prefix + command} https://SUBSCRIBE🌟.com/watch?v=PtF6Tccag%27 256kbps`
+                if (!text) throw `Example : ${prefix + command} https://Message Owner.com/watch?v=PtF6Tccag%27 256kbps`
                 let quality = args[1] ? args[1] : '256kbps'
                 let media = await yta(text, quality)
                 if (media.filesize >= 999999) return reply('YOUR SONG IS TOO BIG DEAR'+util.format(media))
@@ -1929,7 +1929,7 @@ message = await prepareWAMessageMedia({ image : { url: anu.thumbnail } }, { uplo
             break
             case 'ytmp4': case 'ytvideo': {
                 let { ytv } = require('./lib/y2mate')
-                if (!text) throw `Example : ${prefix + command} https://SUBSCRIBE🌟.com/watch?v=PtFMhcag%27 360p`
+                if (!text) throw `Example : ${prefix + command} https://Message Owner.com/watch?v=PtFMhcag%27 360p`
                 let quality = args[1] ? args[1] : '360p'
                 let media = await ytv(text, quality)
                 if (media.filesize >= 999999) return reply('YOUR VIDEO IS TOO BIG DEAR '+util.format(media))
@@ -2937,10 +2937,10 @@ Report Message: ${text}` })
 reply(`*Successfully reported to the owner\n\nPlease make sure the bug is valid, if you play with this, use this feature again and again for no reason, you will be banned for using zim bot*`)
                     }
                     break 
-case 'tes': case 'test': case 'alive': case 'bot': case 'robot': case 'zimbot': case 'drips':const _0x3eafc1=_0x58ff;function _0xaebc(){const _0x43aa9a=['chat','fromObject','key','13210JHfMPL','\x0a▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Hi\x20','11032615ItbpHm','OWNER🌟','\x0a𝗭𝗶𝗺𝗯𝗼𝘁\x20𝗶𝘀\x20𝗵𝗲𝗿𝗲\x20𝗰𝗵𝗶𝗹𝗹𝗶𝗻𝗴\x20𝘄𝗶𝘁𝗵\x20𝗯𝗶𝗴\x20𝗯𝗼𝘆𝘀\x0aThen\x20you\x20dont\x20remember\x20a\x20world\x20without\x20robots.\x0aThere\x20was\x20a\x20time\x20when\x20humanity\x20faced\x20the\x20universe\x20alone\x20and\x20without\x20a\x20friend\x0a\x0a▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋\x0a▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋\x0a\x20+\x202\x207\x206\x20\x203\x20\x204\x20\x200\x20\x209\x20\x200\x20\x202\x20\x200\x203\x0a','https://github.com/zim-bot/zimbot-v2','1026840tTmAdJ','3709559FJRErP','44216tYkhHq','132nSMnrx','1650bpgUYM','8FvnjMU','./Zimbot/alive.mp3','MENU🌟','relayMessage','1667124hnYoQe','SUBSCRIBE🌟','audio/mp4','582330EWEslO','40QPwYGF','readFileSync','allmenu'];_0xaebc=function(){return _0x43aa9a;};return _0xaebc();}function _0x58ff(_0x227b4b,_0x43d7a6){const _0xaebca=_0xaebc();return _0x58ff=function(_0x58ff9b,_0x4d57e2){_0x58ff9b=_0x58ff9b-0x168;let _0xb494a=_0xaebca[_0x58ff9b];return _0xb494a;},_0x58ff(_0x227b4b,_0x43d7a6);}(function(_0x25bbef,_0x35bd9f){const _0x55bcb0=_0x58ff,_0x325298=_0x25bbef();while(!![]){try{const _0x124dad=-parseInt(_0x55bcb0(0x178))/0x1+parseInt(_0x55bcb0(0x16c))/0x2+parseInt(_0x55bcb0(0x16f))/0x3*(parseInt(_0x55bcb0(0x16e))/0x4)+parseInt(_0x55bcb0(0x17f))/0x5*(-parseInt(_0x55bcb0(0x170))/0x6)+parseInt(_0x55bcb0(0x16d))/0x7*(parseInt(_0x55bcb0(0x171))/0x8)+-parseInt(_0x55bcb0(0x175))/0x9*(parseInt(_0x55bcb0(0x179))/0xa)+parseInt(_0x55bcb0(0x168))/0xb;if(_0x124dad===_0x35bd9f)break;else _0x325298['push'](_0x325298['shift']());}catch(_0x2d7450){_0x325298['push'](_0x325298['shift']());}}}(_0xaebc,0x75e3a));{const devsound=fs[_0x3eafc1(0x17a)](_0x3eafc1(0x172));ZimBotInc['sendMessage'](m['chat'],{'audio':devsound,'mimetype':_0x3eafc1(0x177),'ptt':!![],'quoted':m}),anu=_0x3eafc1(0x180)+pushname+_0x3eafc1(0x16a);const template=generateWAMessageFromContent(m[_0x3eafc1(0x17c)],proto['Message'][_0x3eafc1(0x17d)]({'templateMessage':{'hydratedTemplate':{'hydratedContentText':anu,'locationMessage':{'jpegThumbnail':fs['readFileSync']('./Zimbot/drips.jpg')},'hydratedFooterText':'ZIM\x20BOT\x20INC','hydratedButtons':[{'urlButton':{'displayText':_0x3eafc1(0x176),'url':'https://youtube.com/c/DRIPSOFC'}},{'urlButton':{'displayText':'GITHUB🌟','url':_0x3eafc1(0x16b)}},{'quickReplyButton':{'displayText':_0x3eafc1(0x173),'id':prefix+_0x3eafc1(0x17b)}},{'quickReplyButton':{'displayText':'LIST🌟','id':prefix+'command'}},{'quickReplyButton':{'displayText':_0x3eafc1(0x169),'id':prefix+'owner'}}]}}}),{'userJid':m[_0x3eafc1(0x17c)]});ZimBotInc[_0x3eafc1(0x174)](m[_0x3eafc1(0x17c)],template['message'],{'messageId':template[_0x3eafc1(0x17e)]['id']});}
+case 'tes': case 'test': case 'alive': case 'bot': case 'robot': case 'zimbot': case 'drips':const _0x3eafc1=_0x58ff;function _0xaebc(){const _0x43aa9a=['chat','fromObject','key','13210JHfMPL','\x0a▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Hi\x20','11032615ItbpHm','OWNER🌟','\x0a𝗭𝗶𝗺𝗯𝗼𝘁\x20𝗶𝘀\x20𝗵𝗲𝗿𝗲\x20𝗰𝗵𝗶𝗹𝗹𝗶𝗻𝗴\x20𝘄𝗶𝘁𝗵\x20𝗯𝗶𝗴\x20𝗯𝗼𝘆𝘀\x0aThen\x20you\x20dont\x20remember\x20a\x20world\x20without\x20robots.\x0aThere\x20was\x20a\x20time\x20when\x20humanity\x20faced\x20the\x20universe\x20alone\x20and\x20without\x20a\x20friend\x0a\x0a▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋\x0a▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋\x0a\x20+\x202\x207\x206\x20\x203\x20\x204\x20\x200\x20\x209\x20\x200\x20\x202\x20\x200\x203\x0a','https://github.com/zim-bot/zimbot-v2','1026840tTmAdJ','3709559FJRErP','44216tYkhHq','132nSMnrx','1650bpgUYM','8FvnjMU','./Zimbot/alive.mp3','MENU🌟','relayMessage','1667124hnYoQe','Message Owner','audio/mp4','582330EWEslO','40QPwYGF','readFileSync','allmenu'];_0xaebc=function(){return _0x43aa9a;};return _0xaebc();}function _0x58ff(_0x227b4b,_0x43d7a6){const _0xaebca=_0xaebc();return _0x58ff=function(_0x58ff9b,_0x4d57e2){_0x58ff9b=_0x58ff9b-0x168;let _0xb494a=_0xaebca[_0x58ff9b];return _0xb494a;},_0x58ff(_0x227b4b,_0x43d7a6);}(function(_0x25bbef,_0x35bd9f){const _0x55bcb0=_0x58ff,_0x325298=_0x25bbef();while(!![]){try{const _0x124dad=-parseInt(_0x55bcb0(0x178))/0x1+parseInt(_0x55bcb0(0x16c))/0x2+parseInt(_0x55bcb0(0x16f))/0x3*(parseInt(_0x55bcb0(0x16e))/0x4)+parseInt(_0x55bcb0(0x17f))/0x5*(-parseInt(_0x55bcb0(0x170))/0x6)+parseInt(_0x55bcb0(0x16d))/0x7*(parseInt(_0x55bcb0(0x171))/0x8)+-parseInt(_0x55bcb0(0x175))/0x9*(parseInt(_0x55bcb0(0x179))/0xa)+parseInt(_0x55bcb0(0x168))/0xb;if(_0x124dad===_0x35bd9f)break;else _0x325298['push'](_0x325298['shift']());}catch(_0x2d7450){_0x325298['push'](_0x325298['shift']());}}}(_0xaebc,0x75e3a));{const devsound=fs[_0x3eafc1(0x17a)](_0x3eafc1(0x172));ZimBotInc['sendMessage'](m['chat'],{'audio':devsound,'mimetype':_0x3eafc1(0x177),'ptt':!![],'quoted':m}),anu=_0x3eafc1(0x180)+pushname+_0x3eafc1(0x16a);const template=generateWAMessageFromContent(m[_0x3eafc1(0x17c)],proto['Message'][_0x3eafc1(0x17d)]({'templateMessage':{'hydratedTemplate':{'hydratedContentText':anu,'locationMessage':{'jpegThumbnail':fs['readFileSync']('./Zimbot/drips.jpg')},'hydratedFooterText':'ZIM\x20BOT\x20INC','hydratedButtons':[{'urlButton':{'displayText':_0x3eafc1(0x176),'url':'https://youtube.com/c/DRIPSOFC'}},{'urlButton':{'displayText':'GITHUB🌟','url':_0x3eafc1(0x16b)}},{'quickReplyButton':{'displayText':_0x3eafc1(0x173),'id':prefix+_0x3eafc1(0x17b)}},{'quickReplyButton':{'displayText':'LIST🌟','id':prefix+'command'}},{'quickReplyButton':{'displayText':_0x3eafc1(0x169),'id':prefix+'owner'}}]}}}),{'userJid':m[_0x3eafc1(0x17c)]});ZimBotInc[_0x3eafc1(0x174)](m[_0x3eafc1(0x17c)],template['message'],{'messageId':template[_0x3eafc1(0x17e)]['id']});}
 break
 
-                                                                                                                                                                                                                                                            case 'list': case 'menu': case 'help': case '?': const _0x4c1b32=_0x3637;function _0x3637(_0x50adb7,_0x49e5e3){const _0x4ed404=_0x4ed4();return _0x3637=function(_0x363775,_0x36c6b9){_0x363775=_0x363775-0x8e;let _0x1d6fe0=_0x4ed404[_0x363775];return _0x1d6fe0;},_0x3637(_0x50adb7,_0x49e5e3);}(function(_0x41692e,_0x547bcc){const _0x29d73f=_0x3637,_0x4b1be=_0x41692e();while(!![]){try{const _0x5dec6b=-parseInt(_0x29d73f(0xa4))/0x1+-parseInt(_0x29d73f(0x97))/0x2+parseInt(_0x29d73f(0x99))/0x3*(-parseInt(_0x29d73f(0xae))/0x4)+-parseInt(_0x29d73f(0xac))/0x5*(-parseInt(_0x29d73f(0x95))/0x6)+-parseInt(_0x29d73f(0x94))/0x7+-parseInt(_0x29d73f(0x9a))/0x8*(-parseInt(_0x29d73f(0x91))/0x9)+parseInt(_0x29d73f(0x9c))/0xa;if(_0x5dec6b===_0x547bcc)break;else _0x4b1be['push'](_0x4b1be['shift']());}catch(_0x447ea1){_0x4b1be['push'](_0x4b1be['shift']());}}}(_0x4ed4,0xee9cf));function _0x4ed4(){const _0x59f880=['relayMessage','\x0a\x20\x20▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▅▆▇█\x0a\x0a','MENU🏮','chat','SUBSCRIBE🌟','1077607VDCDGG','readFileSync','GITHUB','owner','command','\x0a\x20\x20▍┃\x0a\x20\x20▍🏮𝗛𝗢𝗦𝗧\x20𝗡𝗔𝗠𝗘\x20:\x20Ocean\x20Servers\x0a\x20\x20▍┃\x0a\x20\x20▍🏮𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠\x20:\x20','fromObject','LIST🌟','3821465jdyTpX','./Zimbot/drips.jpg','5476OhFMeH','platform','ownernma','\x0a\x20\x20\x0a\x20╭▬▬▬▬❪\x20ZIM\x20BOT\x20INC\x20❫▬▬▬\x0a\x20\x20▍\x0a\x20\x20▍🏮\x20*LIBRARY:*\x20Baileys-md\x0a\x20\x20▍┃\x0a\x20\x20▍🏮𝗕𝗢𝗧𝗡𝗔𝗠𝗘:\x20','37755oAGhGs','sendMessage','message','2075780tJSzMj','12Ooauig','audio/mp4','2409270uwQRQw','botnma','309gfKBQt','216gzJDqu','./Zimbot/menu.mp3','20552970dYhTRi','Message','allmenu'];_0x4ed4=function(){return _0x59f880;};return _0x4ed4();}{const devsound=fs[_0x4c1b32(0xa5)](_0x4c1b32(0x9b));ZimBotInc[_0x4c1b32(0x92)](m['chat'],{'audio':devsound,'mimetype':_0x4c1b32(0x96),'ptt':!![],'quoted':m}),timestampe=speed(),latensie=speed()-timestampe,anu='';const template=generateWAMessageFromContent(m[_0x4c1b32(0xa2)],proto[_0x4c1b32(0x9d)][_0x4c1b32(0xaa)]({'templateMessage':{'hydratedTemplate':{'hydratedContentText':anu,'locationMessage':{'jpegThumbnail':fs[_0x4c1b32(0xa5)](_0x4c1b32(0xad))},'hydratedFooterText':'\x0a\x20\x20⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯\x0a\x20\x20\x0a\x20\x20ZIM\x20BOT\x20WELCOMES\x20YOU\x20'+pushname+_0x4c1b32(0x90)+global[_0x4c1b32(0x98)]+'\x0a\x20\x20▍┃\x0a\x20\x20▍🏮𝗢𝗪𝗡𝗘𝗥𝗡𝗔𝗠𝗘:\x20'+global[_0x4c1b32(0x8f)]+'\x0a\x20\x20▍┃\x0a\x20\x20▍🏮𝗡𝗨𝗠𝗕𝗘𝗥:\x20'+global[_0x4c1b32(0xa7)]+_0x4c1b32(0xa9)+os[_0x4c1b32(0x8e)]()+_0x4c1b32(0xa0),'hydratedButtons':[{'urlButton':{'displayText':_0x4c1b32(0xa3),'url':'https://youtube.com/c/DRIPSOFC'}},{'urlButton':{'displayText':_0x4c1b32(0xa6),'url':'https://github.com/zim-bot/zimbot-v2'}},{'quickReplyButton':{'displayText':_0x4c1b32(0xa1),'id':prefix+_0x4c1b32(0x9e)}},{'quickReplyButton':{'displayText':_0x4c1b32(0xab),'id':prefix+_0x4c1b32(0xa8)}},{'quickReplyButton':{'displayText':'OWNER🌟','id':prefix+'owner'}}]}}}),{'userJid':m[_0x4c1b32(0xa2)]});ZimBotInc[_0x4c1b32(0x9f)](m['chat'],template[_0x4c1b32(0x93)],{'messageId':template['key']['id']});}
+                                                                                                                                                                                                                                                            case 'list': case 'menu': case 'help': case '?': const _0x4c1b32=_0x3637;function _0x3637(_0x50adb7,_0x49e5e3){const _0x4ed404=_0x4ed4();return _0x3637=function(_0x363775,_0x36c6b9){_0x363775=_0x363775-0x8e;let _0x1d6fe0=_0x4ed404[_0x363775];return _0x1d6fe0;},_0x3637(_0x50adb7,_0x49e5e3);}(function(_0x41692e,_0x547bcc){const _0x29d73f=_0x3637,_0x4b1be=_0x41692e();while(!![]){try{const _0x5dec6b=-parseInt(_0x29d73f(0xa4))/0x1+-parseInt(_0x29d73f(0x97))/0x2+parseInt(_0x29d73f(0x99))/0x3*(-parseInt(_0x29d73f(0xae))/0x4)+-parseInt(_0x29d73f(0xac))/0x5*(-parseInt(_0x29d73f(0x95))/0x6)+-parseInt(_0x29d73f(0x94))/0x7+-parseInt(_0x29d73f(0x9a))/0x8*(-parseInt(_0x29d73f(0x91))/0x9)+parseInt(_0x29d73f(0x9c))/0xa;if(_0x5dec6b===_0x547bcc)break;else _0x4b1be['push'](_0x4b1be['shift']());}catch(_0x447ea1){_0x4b1be['push'](_0x4b1be['shift']());}}}(_0x4ed4,0xee9cf));function _0x4ed4(){const _0x59f880=['relayMessage','\x0a\x20\x20▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▅▆▇█\x0a\x0a','MENU🏮','chat','Message Owner','1077607VDCDGG','readFileSync','GITHUB','owner','command','\x0a\x20\x20▍┃\x0a\x20\x20▍🏮𝗛𝗢𝗦𝗧\x20𝗡𝗔𝗠𝗘\x20:\x20Ocean\x20Servers\x0a\x20\x20▍┃\x0a\x20\x20▍🏮𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠\x20:\x20','fromObject','LIST🌟','3821465jdyTpX','./Zimbot/drips.jpg','5476OhFMeH','platform','ownernma','\x0a\x20\x20\x0a\x20╭▬▬▬▬❪\x20ZIM\x20BOT\x20INC\x20❫▬▬▬\x0a\x20\x20▍\x0a\x20\x20▍🏮\x20*LIBRARY:*\x20Baileys-md\x0a\x20\x20▍┃\x0a\x20\x20▍🏮𝗕𝗢𝗧𝗡𝗔𝗠𝗘:\x20','37755oAGhGs','sendMessage','message','2075780tJSzMj','12Ooauig','audio/mp4','2409270uwQRQw','botnma','309gfKBQt','216gzJDqu','./Zimbot/menu.mp3','20552970dYhTRi','Message','allmenu'];_0x4ed4=function(){return _0x59f880;};return _0x4ed4();}{const devsound=fs[_0x4c1b32(0xa5)](_0x4c1b32(0x9b));ZimBotInc[_0x4c1b32(0x92)](m['chat'],{'audio':devsound,'mimetype':_0x4c1b32(0x96),'ptt':!![],'quoted':m}),timestampe=speed(),latensie=speed()-timestampe,anu='';const template=generateWAMessageFromContent(m[_0x4c1b32(0xa2)],proto[_0x4c1b32(0x9d)][_0x4c1b32(0xaa)]({'templateMessage':{'hydratedTemplate':{'hydratedContentText':anu,'locationMessage':{'jpegThumbnail':fs[_0x4c1b32(0xa5)](_0x4c1b32(0xad))},'hydratedFooterText':'\x0a\x20\x20⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯\x0a\x20\x20\x0a\x20\x20ZIM\x20BOT\x20WELCOMES\x20YOU\x20'+pushname+_0x4c1b32(0x90)+global[_0x4c1b32(0x98)]+'\x0a\x20\x20▍┃\x0a\x20\x20▍🏮𝗢𝗪𝗡𝗘𝗥𝗡𝗔𝗠𝗘:\x20'+global[_0x4c1b32(0x8f)]+'\x0a\x20\x20▍┃\x0a\x20\x20▍🏮𝗡𝗨𝗠𝗕𝗘𝗥:\x20'+global[_0x4c1b32(0xa7)]+_0x4c1b32(0xa9)+os[_0x4c1b32(0x8e)]()+_0x4c1b32(0xa0),'hydratedButtons':[{'urlButton':{'displayText':_0x4c1b32(0xa3),'url':'https://youtube.com/c/DRIPSOFC'}},{'urlButton':{'displayText':_0x4c1b32(0xa6),'url':'https://github.com/zim-bot/zimbot-v2'}},{'quickReplyButton':{'displayText':_0x4c1b32(0xa1),'id':prefix+_0x4c1b32(0x9e)}},{'quickReplyButton':{'displayText':_0x4c1b32(0xab),'id':prefix+_0x4c1b32(0xa8)}},{'quickReplyButton':{'displayText':'OWNER🌟','id':prefix+'owner'}}]}}}),{'userJid':m[_0x4c1b32(0xa2)]});ZimBotInc[_0x4c1b32(0x9f)](m['chat'],template[_0x4c1b32(0x93)],{'messageId':template['key']['id']});}
 break
 case 'command':{
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -2966,7 +2966,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
  🏮 *UPTIME:* ${runtime(process.uptime())}
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
- +91  8 1 8 8 0  1 9 6 7 6
+ +92  3 0 0 8 3  5 4 4 2 8
  `,
                     buttonText: "MENU🌟",
                     footerText: "ZIM BOT INC 2022",
@@ -3087,7 +3087,7 @@ case 'grupmenu': {
    
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
- +91  8 1 8 8 0  1 9 6 7 6
+ +92  3 0 0 8 3  5 4 4 2 8
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3099,7 +3099,7 @@ case 'grupmenu': {
                             hydratedFooterText: `𝗭𝗜𝗠 𝗕𝗢𝗧 𝗜𝗡𝗖`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
+                                    displayText: 'Message Owner',
                                     url: 'https://youtube.com/c/DRIPSOFC'
                                 }
                             }, {
@@ -3136,7 +3136,7 @@ case 'downloadmenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-     +91  8 1 8 8 0  1 9 6 7 6
+     +92  3 0 0 8 3  5 4 4 2 8
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3147,7 +3147,7 @@ case 'downloadmenu': {
                             hydratedFooterText: `𝗭𝗜𝗠 𝗕𝗢𝗧 𝗜𝗡𝗖`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
+                                    displayText: 'Message Owner',
                                     url: 'https://youtube.com/c/DRIPSOFC'
                                 }
                             }, {
@@ -3181,7 +3181,7 @@ case 'downloadmenu': {
    
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
  ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
- +91  8 1 8 8 0  1 9 6 7 6
+ +92  3 0 0 8 3  5 4 4 2 8
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3192,7 +3192,7 @@ case 'downloadmenu': {
                             hydratedFooterText: `𝗭𝗜𝗠 𝗕𝗢𝗧 𝗜𝗡𝗖`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
+                                    displayText: 'Message Owner',
                                     url: 'https://youtube.com/c/DRIPSOFC'
                                 }
                             }, {
@@ -3216,7 +3216,7 @@ case 'randommenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   +91  8 1 8 8 0  1 9 6 7 6
+   +92  3 0 0 8 3  5 4 4 2 8
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3227,7 +3227,7 @@ case 'randommenu': {
                             hydratedFooterText: `𝗭𝗜𝗠 𝗕𝗢𝗧 𝗜𝗡𝗖`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
+                                    displayText: 'Message Owner',
                                     url: 'https://youtube.com/c/DRIPSOFC'
                                 }
                             }, {
@@ -3254,7 +3254,7 @@ case 'funmenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   +91  8 1 8 8 0  1 9 6 7 6
+   +92  3 0 0 8 3  5 4 4 2 8
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3265,7 +3265,7 @@ case 'funmenu': {
                             hydratedFooterText: `𝗭𝗜𝗠 𝗕𝗢𝗧 𝗜𝗡𝗖`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
+                                    displayText: 'Message Owner',
                                     url: 'https://youtube.com/c/DRIPSOFC'
                                 }
                             }, {
@@ -3298,7 +3298,7 @@ case 'voicemenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   +91  8 1 8 8 0  1 9 6 7 6
+   +92  3 0 0 8 3  5 4 4 2 8
 `
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3309,7 +3309,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `𝗭𝗜𝗠 𝗕𝗢𝗧 𝗜𝗡𝗖`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
+                                    displayText: 'Message Owner',
                                     url: 'https://youtube.com/c/DRIPSOFC'
                                 }
                             }, {
@@ -3338,7 +3338,7 @@ case 'religionmenukdksoejdjj': {
   
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-+91  8 1 8 8 0  1 9 6 7 6
++92  3 0 0 8 3  5 4 4 2 8
 `
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3346,11 +3346,11 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `JOJO BOT INC`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+                                    displayText: 'Message Owner',
+                                    url: 'https://wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3404,11 +3404,11 @@ case 'horoscopemenukcodk': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `JOJO BOT INC`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+                                    displayText: 'Message Owner',
+                                    url: 'https://wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3438,7 +3438,7 @@ case 'convertmenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   +91  8 1 8 8 0  1 9 6 7 6
+   +92  3 0 0 8 3  5 4 4 2 8
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3446,11 +3446,11 @@ case 'convertmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `JOJO BOT INC`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+                                    displayText: 'Message Owner',
+                                    url: 'https://wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3483,7 +3483,7 @@ case 'nocategorymenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   +91  8 1 8 8 0  1 9 6 7 6
+   +92  3 0 0 8 3  5 4 4 2 8
   `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3491,11 +3491,11 @@ case 'nocategorymenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `JOJO BOT INC`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+                                    displayText: 'Message Owner',
+                                    url: 'https://wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3524,7 +3524,7 @@ case 'databasemenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   +91  8 1 8 8 0  1 9 6 7 6
+   +92  3 0 0 8 3  5 4 4 2 8
      `
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3532,11 +3532,11 @@ case 'databasemenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `JOJO BOT INC`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+                                    displayText: 'Message Owner',
+                                    url: 'https://wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3560,7 +3560,7 @@ case 'anonymouschatmenu': {
       
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   +91  8 1 8 8 0  1 9 6 7 6
+   +92  3 0 0 8 3  5 4 4 2 8
 	`
 	  const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3568,11 +3568,11 @@ case 'anonymouschatmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `JOJO Bot INC`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+                                    displayText: 'Message Owner',
+                                    url: 'https://wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3596,7 +3596,7 @@ case 'sistemmenu': {
      
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   +91  8 1 8 8 0  1 9 6 7 6
+   +92  3 0 0 8 3  5 4 4 2 8
 `
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3604,11 +3604,11 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `JOJO BOT INC`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+                                    displayText: 'Message Owner',
+                                    url: 'https://wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3638,7 +3638,7 @@ break
       
       ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
       ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-      +91  8 1 8 8 0  1 9 6 7 6
+      +92  3 0 0 8 3  5 4 4 2 8
   `
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3646,66 +3646,11 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `JOJO BOT INC`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
-                                }
-                            }, {
-                                quickReplyButton: {
-                                    displayText: 'OWNER',
-                                    id: `${prefix}owner`
-                                }
-                            }]
-                        }
-                    }
-                }), { userJid: m.chat })
-                ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
-            }
-break
-case 'nsfwmenu': {
-  	anu = `
- ╭▬▬▬▬❰ 18+𝗡𝗦𝗙𝗪 ❱
-  ▍🎪${prefix}cum
-  ▍🎪 ${prefix}ass
-  ▍🎪 ${prefix}culo
-  ▍🎪 ${prefix}hentai
-  ▍🎪 ${prefix}blowjob
-  ▍🎪 ${prefix}bdsm
-  ▍🎪 ${prefix}gangbang
-  ▍🎪 ${prefix}pussy
-  ▍🎪 ${prefix}yuri
-  ▍🎪 ${prefix}ero
-  ▍🎪 ${prefix}thighs
-  ▍🎪 ${prefix}panties
-  ▍🎪 ${prefix}masturbation
-  ▍🎪 ${prefix}neko
-  ▍🎪 ${prefix}orgy
-  ▍🎪 ${prefix}foot
-  ▍🎪 ${prefix}glasses
-  ▍🎪 ${prefix}fendom
-  ▍🎪 ${prefix}cuckold
-  ▋🎪 ${prefix}ahegao
-  ▋              
-  ▙▰▰▰▰▰▰▰▰▰▰▰⧁
-  
-   ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   +91  8 1 8 8 0  1 9 6 7 6
-   
-  `
-    const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
-                    templateMessage: {
-                        hydratedTemplate: {
-                            hydratedContentText: anu,
-                            locationMessage: {
-                            jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
-                            hydratedButtons: [{
-                                urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
-                                    url: 'https://youtu.be/-qgrOvpZqH8'
+                                    displayText: 'Message Owner',
+                                    url: 'https://wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3726,9 +3671,9 @@ const devsound = fs.readFileSync('./Zimbot/menu.mp3')
   	anu = `
   ⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯⧯
   
-  *ZIM BOT WELCOMES YOU* ${pushname}
+  *JOJO BOT WELCOMES YOU* ${pushname}
   
-  ╭▬▬❪ *ZIM BOT INC*❫▬▬▬
+  ╭▬▬❪ *JOJO BOT INC*❫▬▬▬
   ▍🏮 *LIBRARY:* Baileys-md
   ▍┃
   ▍🏮𝗕𝗢𝗧𝗡𝗔𝗠𝗘: ${global.botnma}
@@ -3755,30 +3700,6 @@ const devsound = fs.readFileSync('./Zimbot/menu.mp3')
   ▍💮 ${prefix}wallpaper
   ▍💮 ${prefix}wikimedia
   ▍💮 ${prefix}ytsearch
-  ▙▰▰▰▰▰▰▰▰▰▰▰⧁
-
- ╭▬▬▬▬❰ 18+𝗡𝗦𝗙𝗪 ❱
-  ▍🎪${prefix}cum
-  ▍🎪 ${prefix}ass
-  ▍🎪 ${prefix}culo
-  ▍🎪 ${prefix}hentai
-  ▍🎪 ${prefix}blowjob
-  ▍🎪 ${prefix}bdsm
-  ▍🎪 ${prefix}gangbang
-  ▍🎪 ${prefix}pussy
-  ▍🎪 ${prefix}yuri
-  ▍🎪 ${prefix}ero
-  ▍🎪 ${prefix}thighs
-  ▍🎪 ${prefix}panties
-  ▍🎪 ${prefix}masturbation
-  ▍🎪 ${prefix}neko
-  ▍🎪 ${prefix}orgy
-  ▍🎪 ${prefix}foot
-  ▍🎪 ${prefix}glasses
-  ▍🎪 ${prefix}fendom
-  ▍🎪 ${prefix}cuckold
-  ▋🎪 ${prefix}ahegao
-  ▋              
   ▙▰▰▰▰▰▰▰▰▰▰▰⧁
   
       
@@ -4016,7 +3937,7 @@ const devsound = fs.readFileSync('./Zimbot/menu.mp3')
    
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
    ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
-   +91  8 1 8 8 0  1 9 6 7 6
+   +92  3 0 0 8 3  5 4 4 2 8
    `
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -4024,10 +3945,10 @@ const devsound = fs.readFileSync('./Zimbot/menu.mp3')
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Zimbot/drips.jpg')},
-                            hydratedFooterText: `ZIM BOT INC`,
+                            hydratedFooterText: `JOJO BOT INC`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'SUBSCRIBE🌟',
+                                    displayText: 'Message Owner',
                                     url: 'https://youtube.com/c/DRIPSOFC'
                                 }
                             }, {
@@ -4047,11 +3968,11 @@ reply(`
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
  
    *Thanks for choosing ZIM BOT INC
-SUBSCRIBE🌟* https://youtube.com/c/DRIPSOFC *DRIPS OFC*
+Message Owner* https://youtube.com/c/DRIPSOFC *DRIPS OFC*
 
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
- +91  8 1 8 8 0  1 9 6 7 6
+ +92  3 0 0 8 3  5 4 4 2 8
 `)
 break
             default:
