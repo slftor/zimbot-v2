@@ -314,7 +314,7 @@ ${Array.from(room.jawaban, (jawaban, index) => {
             kuis = true
             jawaban = tebaklagu[m.sender.split('@')[0]]
             if (budy.toLowerCase() == jawaban) {
-                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lagu', buttonText: { displayText: 'GUESS THE MUSIC' }, type: 1 }], ` Guess The Song\n\nCorrect Answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lagu', buttonText: { displayText: 'GUESS THE MUSIC' }, type: 1 }], ` Guess The Song\n\nCorrect Answer 🎉\n\nWant to play again? JOJO BOT INC`, ZimBotInc.user.name, m)
                 delete tebaklagu[m.sender.split('@')[0]]
             } else reply('*WRONG ANSWER!*')
         }
@@ -332,7 +332,7 @@ ${Array.from(room.jawaban, (jawaban, index) => {
             kuis = true
             jawaban = tebakgambar[m.sender.split('@')[0]]
             if (budy.toLowerCase() == jawaban) {
-                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak gambar', buttonText: { displayText: 'Guess The Picture' }, type: 1 }], ` Guess The Picture\n\nCorrect answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak gambar', buttonText: { displayText: 'Guess The Picture' }, type: 1 }], ` Guess The Picture\n\nCorrect answer 🎉\n\nWant to play again? JOJO BOT INC`, ZimBotInc.user.name, m)
                 delete tebakgambar[m.sender.split('@')[0]]
             } else reply('*WRONG ANSWER!*')
         }
@@ -341,7 +341,7 @@ ${Array.from(room.jawaban, (jawaban, index) => {
             kuis = true
             jawaban = tebakkata[m.sender.split('@')[0]]
             if (budy.toLowerCase() == jawaban) {
-                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kata', buttonText: { displayText: 'GUESS THE WORD' }, type: 1 }], `Guess The Word\n\nCorrect answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kata', buttonText: { displayText: 'GUESS THE WORD' }, type: 1 }], `Guess The Word\n\nCorrect answer 🎉\n\nWant to play again? JOJO BOT INC`, ZimBotInc.user.name, m)
                 delete tebakkata[m.sender.split('@')[0]]
             } else reply('*WRONG ANSWER!*')
         }
@@ -351,7 +351,7 @@ ${Array.from(room.jawaban, (jawaban, index) => {
             jawaban = caklontong[m.sender.split('@')[0]]
 	    deskripsi = caklontong_desk[m.sender.split('@')[0]]
             if (budy.toLowerCase() == jawaban) {
-                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lontong', buttonText: { displayText: 'GUESS LONTONG' }, type: 1 }], `Guess Lontong\n\nCorrect answer 🎉\n*${deskripsi}*\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lontong', buttonText: { displayText: 'GUESS LONTONG' }, type: 1 }], `Guess Lontong\n\nCorrect answer 🎉\n*${deskripsi}*\n\nWant to play again? JOJO BOT INC`, ZimBotInc.user.name, m)
                 delete caklontong[m.sender.split('@')[0]]
 		delete caklontong_desk[m.sender.split('@')[0]]
             } else reply('*WRONG ANSWER!*')
@@ -361,7 +361,7 @@ ${Array.from(room.jawaban, (jawaban, index) => {
             kuis = true
             jawaban = tebakkalimat[m.sender.split('@')[0]]
             if (budy.toLowerCase() == jawaban) {
-                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kalimat', buttonText: { displayText: 'Guess The Sentence' }, type: 1 }], ` Guess The Sentence \n\nCorrect answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kalimat', buttonText: { displayText: 'Guess The Sentence' }, type: 1 }], ` Guess The Sentence \n\nCorrect answer 🎉\n\nWant to play again? JOJO BOT INC`, ZimBotInc.user.name, m)
                 delete tebakkalimat[m.sender.split('@')[0]]
             } else reply('*WRONG ANSWER!*')
         }
@@ -370,7 +370,7 @@ ${Array.from(room.jawaban, (jawaban, index) => {
             kuis = true
             jawaban = tebaklirik[m.sender.split('@')[0]]
             if (budy.toLowerCase() == jawaban) {
-                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lirik', buttonText: { displayText: 'Guess The Lyrics' }, type: 1 }], ` Guess The Lyrics \n\nCorrect answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lirik', buttonText: { displayText: 'Guess The Lyrics' }, type: 1 }], ` Guess The Lyrics \n\nCorrect answer 🎉\n\nWant to play again? JOJO BOT INC`, ZimBotInc.user.name, m)
                 delete tebaklirik[m.sender.split('@')[0]]
             } else reply('*WRONG ANSWER!*')
         }
@@ -379,7 +379,7 @@ ${Array.from(room.jawaban, (jawaban, index) => {
             kuis = true
             jawaban = tebaktebakan[m.sender.split('@')[0]]
             if (budy.toLowerCase() == jawaban) {
-                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak tebakan', buttonText: { displayText: 'Riddles' }, type: 1 }], `Riddles \n\nCorrect answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+                await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak tebakan', buttonText: { displayText: 'Riddles' }, type: 1 }], `Riddles \n\nCorrect answer 🎉\n\nWant to play again? JOJO BOT INC`, ZimBotInc.user.name, m)
                 delete tebaktebakan[m.sender.split('@')[0]]
             } else reply('*WRONG ANSWER!*')
         }
@@ -1016,7 +1016,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
                     await sleep(60000)
                     if (tebaklagu.hasOwnProperty(m.sender.split('@')[0])) {
                     console.log("Answer: " + result.jawaban)
-                    ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lagu', buttonText: { displayText: 'TEBAK LAGU' }, type: 1 }], `Time Out\nAnswer:  ${tebaklagu[m.sender.split('@')[0]]}\n\nWant to play? ZIM BOT INC`, ZimBotInc.user.name, m)
+                    ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lagu', buttonText: { displayText: 'TEBAK LAGU' }, type: 1 }], `Time Out\nAnswer:  ${tebaklagu[m.sender.split('@')[0]]}\n\nWant to play? JOJO BOT INC`, ZimBotInc.user.name, m)
                     delete tebaklagu[m.sender.split('@')[0]]
                     
                     }
@@ -1030,7 +1030,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
                     await sleep(60000)
                     if (tebakgambar.hasOwnProperty(m.sender.split('@')[0])) {
                     console.log("Answer: " + result.jawaban)
-                    ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak gambar', buttonText: { displayText: 'Tebak Gambar' }, type: 1 }], `Time has run out\Answer:  ${tebakgambar[m.sender.split('@')[0]]}\n\nWant to play? ZIM BOT INC`, ZimBotInc.user.name, m)
+                    ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak gambar', buttonText: { displayText: 'Tebak Gambar' }, type: 1 }], `Time has run out\Answer:  ${tebakgambar[m.sender.split('@')[0]]}\n\nWant to play? JOJO BOT INC`, ZimBotInc.user.name, m)
                     delete tebakgambar[m.sender.split('@')[0]]
                     
                     }
@@ -1044,7 +1044,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
                     await sleep(60000)
                     if (tebakkata.hasOwnProperty(m.sender.split('@')[0])) {
                     console.log("Answer: " + result.jawaban)
-                    ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kata', buttonText: { displayText: 'Tebak Kata' }, type: 1 }], `Time has run out\nAnswer:  ${tebakkata[m.sender.split('@')[0]]}\n\nWant to play? ZIM BOT INC`, ZimBotInc.user.name, m)
+                    ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kata', buttonText: { displayText: 'Tebak Kata' }, type: 1 }], `Time has run out\nAnswer:  ${tebakkata[m.sender.split('@')[0]]}\n\nWant to play? JOJO BOT INC`, ZimBotInc.user.name, m)
                     delete tebakkata[m.sender.split('@')[0]]
                     
                     }
@@ -1604,7 +1604,7 @@ case 'antilink':
                                 }
                             }]
                       fatihgans = fs.readFileSync('./Zimbot/drips.jpg')
-                      let txt = `「 ZimBot Broadcast 」\n\n${text}`
+                      let txt = `「 JOJOBOT Broadcast 」\n\n${text}`
                       ZimBotInc.send5ButImg(i, txt, ZimBotInc.user.name, fatihgans, btn)
                     }
                 reply(`Successful Sending Broadcast To ${anu.length} Group(s)`)
@@ -2227,7 +2227,7 @@ break
                 ]
                 let buttonMessage = {
                     text: `~_${result.quotes}_\n\nBy '${result.karakter}', ${result.anime}\n\n- ${result.up_at}`,
-                    footer: 'ZIM BOT INC',
+                    footer: 'JOJO BOT INC',
                     buttons: buttons,
                     headerType: 2
                 }
@@ -2241,7 +2241,7 @@ break
                 ]
                 let buttonMessage = {
                     text: anu.result.message,
-                    footer: 'ZIM BOT INC',
+                    footer: 'JOJO BOT INC',
                     buttons: buttons,
                     headerType: 2
                 }
@@ -2343,7 +2343,7 @@ break
                 let buttonMessage = {
                     video: { url: anu.result.nowatermark },
                     caption: `Download From ${text}`,
-                    footer: 'ZIM BOT INC',
+                    footer: 'JOJO BOT INC',
                     buttons: buttons,
                     headerType: 5
                 }
@@ -2361,7 +2361,7 @@ break
                 let buttonMessage = {
                     video: { url: anu.result.watermark },
                     caption: `Download From ${text}`,
-                    footer: 'ZIM BOT INC',
+                    footer: 'JOJO BOT INC',
                     buttons: buttons,
                     headerType: 5
                 }
@@ -2378,7 +2378,7 @@ break
                 ]
                 let buttonMessage = {
                     text: `Download From ${text}`,
-                    footer: 'ZIM BOT INC',
+                    footer: 'JOJO BOT INC',
                     buttons: buttons,
                     headerType: 2
                 }
@@ -2435,7 +2435,7 @@ ZimBotInc.sendMessage(m.chat, {document: {url}},  filename, null, m)
                 let buttonMessage = {
                     video: { url: anu.result.HD || anu.result.SD },
                     caption: util.format(anu.result),
-                    footer: 'ZIM BOT INC',
+                    footer: 'JOJO BOT INC',
                     buttons: buttons,
                     headerType: 5
                 }
@@ -2452,7 +2452,7 @@ ZimBotInc.sendMessage(m.chat, {document: {url}},  filename, null, m)
                 let buttonMessage = {
 		    image: { url: anu.result.thumb },
                     caption: util.format(anu.result),
-                    footer: 'ZIM BOT INC',
+                    footer: 'JOJO BOT INC',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -2785,7 +2785,7 @@ case 'sendkontak': case 'sendcontact': {
                     let buttons = [
                         { buttonId: 'stop', buttonText: { displayText: 'STOP✨' }, type: 1 }
                     ]
-                    await ZimBotInc.sendButtonText(m.chat, buttons, `_You Are Still In Anonymous Session, ZIM BOT INC To Terminate Your Anonymous Session_`, ZimBotInc.user.name, m)
+                    await ZimBotInc.sendButtonText(m.chat, buttons, `_You Are Still In Anonymous Session, JOJO BOT INC To Terminate Your Anonymous Session_`, ZimBotInc.user.name, m)
                     throw false
                 }
                 let room = Object.values(this.anonymous).find(room => room.state === 'WAITING' && !room.check(m.sender))
@@ -2951,7 +2951,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
   
 *ZIM BOT WELCOMES YOU* ${pushname}
 
- ╭▬▬❪ *ZIM BOT INC*❫▬▬▬
+ ╭▬▬❪ *JOJO BOT INC*❫▬▬▬
  ▍🏮 *LIBRARY:* Baileys-md
  ▍┃
  ▍🏮𝗕𝗢𝗧𝗡𝗔𝗠𝗘: ${global.botnma}
@@ -2969,19 +2969,9 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
  +92  3 0 0 8 3  5 4 4 2 8
  `,
                     buttonText: "MENU🌟",
-                    footerText: "ZIM BOT INC 2022",
+                    footerText: "JOJO BOT INC 2022",
                     listType: "SINGLE_SELECT",
                     sections: [{
-								"title": "𝗭𝗜𝗠 𝗕𝗢𝗧 𝗜𝗡𝗖",
-								"rows": [
-									{
-										"title": "𝗠𝗘𝗡𝗨 𝗡𝗦𝗙𝗪",
-									
-										"rowId": `${prefix}nsfwmenu`
-									}
-								]
-							},
-							{
 								"title": "𝗭𝗜𝗠𝗕𝗢𝗧 𝗩❷",
 								"rows": [
 									{
@@ -3100,7 +3090,7 @@ case 'grupmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Message Owner',
-                                    url: 'https://youtube.com/c/DRIPSOFC'
+                                    url: 'wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3148,7 +3138,7 @@ case 'downloadmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Message Owner',
-                                    url: 'https://youtube.com/c/DRIPSOFC'
+                                    url: 'wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3193,7 +3183,7 @@ case 'downloadmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Message Owner',
-                                    url: 'https://youtube.com/c/DRIPSOFC'
+                                    url: 'wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3228,7 +3218,7 @@ case 'randommenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Message Owner',
-                                    url: 'https://youtube.com/c/DRIPSOFC'
+                                    url: 'wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3266,7 +3256,7 @@ case 'funmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Message Owner',
-                                    url: 'https://youtube.com/c/DRIPSOFC'
+                                    url: 'wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3310,7 +3300,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Message Owner',
-                                    url: 'https://youtube.com/c/DRIPSOFC'
+                                    url: 'wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3949,7 +3939,7 @@ const devsound = fs.readFileSync('./Zimbot/menu.mp3')
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Message Owner',
-                                    url: 'https://youtube.com/c/DRIPSOFC'
+                                    url: 'wa.me/+923033224848'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3967,8 +3957,8 @@ case 'tqtt':
 reply(`
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
  
-   *Thanks for choosing ZIM BOT INC
-Message Owner* https://youtube.com/c/DRIPSOFC *DRIPS OFC*
+   *Thanks for choosing JOJO BOT INC
+Message Owner* wa.me/+92300834428 *JOJO OFC*
 
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
 ▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋
