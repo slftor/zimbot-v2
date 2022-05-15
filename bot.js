@@ -33,23 +33,23 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['918188019676',''] //owner number +27634090203
-global.pemilik = ['918188019676'] //owner number +27634090203
-global.premium = ['918188019676'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips' //sticker author name
+global.owner = ['923008354428',''] //owner number +923008354428
+global.pemilik = ['923008354428'] //owner number +923008354428
+global.premium = ['923008354428'] //premium number +923008354428
+global.pengguna = 'TJ' //username
+global.footer = 'JOJO BOT INC'
+global.botnma = 'JOJO BOT INC' //bot name
+global.ownernma = 'Malik Jawad' //owner name
+global.packname = 'TJ' //sticker package name
+global.author = 'By TJ' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    botAdmin: '*TJ bot  must be admin first!*',
+    owner: '*this feature is only for TJ bot owner*',
     group: '*Feature is only for groups!*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
